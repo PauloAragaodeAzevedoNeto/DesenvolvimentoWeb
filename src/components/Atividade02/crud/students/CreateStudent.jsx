@@ -16,7 +16,7 @@ function CreateStudent() {
   return (
     <>
       <main>
-        <h2>Criar Estudante</h2>
+        <h2>Criar Estudantes</h2>
         <form onSubmit={handleSubmit}>
           <div className="form-group">
             <label>Nome: </label>
